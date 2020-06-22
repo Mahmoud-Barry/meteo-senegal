@@ -1,0 +1,13 @@
+.main-img{
+	background-image: url('main_img.jpg') ;
+	height: 420px;
+}
+.second-img{
+	background-image: url('second_img.jpg');
+	height: 600px;
+	background-repeat: no-repeat;
+	margin-top: 102px;
+}
+.row-bg{
+
+}
